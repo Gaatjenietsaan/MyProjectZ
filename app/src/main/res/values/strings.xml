@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My First School App</string>
+    <string name="registreren_text">Registreren</string>
+    <string name="inloggen_text">Inloggen</string>
+    <string name="email_gebruikersnaam_text">Email/Gebruikersnaam</string>
+    <string name="wachtwoord_text">Wachtwoord</string>
+    <string name="prikbord_text">Prikbord</string>
+    <string name="registratie_code_text">Registratie Code</string>
+    <string name="invoer_email_text">Invoer Email</string>
+    <string name="bevestig_wachtwoord_text">Bevestig Wachtwoord</string>
+</resources>
