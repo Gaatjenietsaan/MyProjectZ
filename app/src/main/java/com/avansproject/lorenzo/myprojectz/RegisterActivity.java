@@ -3,7 +3,7 @@ package com.avansproject.lorenzo.myprojectz;
 import android.app.Activity;
 import android.os.Bundle;
 
-public class SecondActivity extends Activity {
+public class RegisterActivity extends Activity {
 
 
     @Override

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">My First School App</string>
+    <string name="app_name">School App</string>
     <string name="registreren_text">Registreren</string>
     <string name="inloggen_text">Inloggen</string>
     <string name="email_gebruikersnaam_text">Email/Gebruikersnaam</string>
@@ -8,4 +8,11 @@
     <string name="registratie_code_text">Registratie Code</string>
     <string name="invoer_email_text">Invoer Email</string>
     <string name="bevestig_wachtwoord_text">Bevestig Wachtwoord</string>
+    <string name="loginicon_name">Icon ImageView</string>
+    <string name="prikbord_icon">prikbord icon</string>
+    <string name="leerkracht_icon">leerkracht icon</string>
+    <string name="klaslokaal_icon">klaslokaal icon</string>
+    <string name="leerkracht_text">Leerkracht</string>
+    <string name="klaslokaal_text">Klaslokaal</string>
+
 </resources>

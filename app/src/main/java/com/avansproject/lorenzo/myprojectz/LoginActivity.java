@@ -3,7 +3,9 @@ package com.avansproject.lorenzo.myprojectz;
 import android.app.Activity;
 import android.os.Bundle;
 
-public class MainActivity extends Activity {
+public class LoginActivity extends Activity {
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
